@@ -28,12 +28,10 @@ Página web personal desarrollada como parte del Reto 1 de Ingeniería de Sistem
 
 ### Repositorio en GitHub
 
-![alt text](image-3.png)
+![git](image-3.png)
 
 ### Página desplegada en Vercel
 
-![Página desplegada](evidencias/vercel.png)
-
+![vercel](image-4.png)
 ## URL final
-
-https://tu-proyecto.vercel.app
+https://vercel.com/juan-diego3/hoja-de-vida
