@@ -23,13 +23,12 @@ Página web personal desarrollada como parte del Reto 1 de Ingeniería de Sistem
 ## Evidencias
 1.![creacion de repositorio](image.png)
 2.![creacion de los archivos solisitados](image-1.png)
-3.77
-4.c
+3.![Comandos oara git](image-2.png)
 
 
 ### Repositorio en GitHub
 
-![Repositorio en GitHub](evidencias/github.png)
+![alt text](image-3.png)
 
 ### Página desplegada en Vercel
 
